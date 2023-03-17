@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-intl main(void)
+int main(void)
 
 {
 	puts("\"Programming is like building a multiligual puzzle");
